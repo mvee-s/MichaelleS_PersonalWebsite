@@ -674,3 +674,20 @@
                 font-size: 15px;
             }
         }
+
+        .mobile-email-btn {
+            display: none;
+        }
+
+        .desktop-email-btn {
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            .mobile-email-btn {
+                display: block;
+            }
+            .desktop-email-btn {
+                display: none;
+            }
+        }
