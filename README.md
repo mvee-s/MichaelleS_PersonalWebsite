@@ -1,7 +1,7 @@
 # Michaelle Vickeemae Creative Personal Portfolio Website #
 # Student Name: Michaelle Vickeemae G. Sarmiento #
 # Course: BSIT Section: 3B #
-# Project Description: This project is a simple but creative personal portfolio website created using HTML and CSS. This shows information about me such as educational background, skills, interests, and some works. #
+# Project Description: This project is a simple but creative personal portfolio website created using HTML and CSS. This shows information about me such as educational background, skills, interests, and some of my works. #
 # Features: Navigation Bar - Welcome Section - Selection - About Me - Educational Background - Hobbies & Interests - My Works - Transmission Station or the Contact Information #
 # Technologies Used - HTML5 - CSS3 #
 # Live Website https://mvee-s.github.io/MichaelleS_PersonalWebsite/ #
